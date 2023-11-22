@@ -39,9 +39,9 @@ const posts = [
   {
     id: 2,
     author: {
-      avatarUrl: "https://github.com/HugoPetla.png",
-      name: "Hugo Petla",
-      role: "Frontend",
+      avatarUrl: "https://github.com/rodrigobranas.png",
+      name: "Rodrigo Branas",
+      role: "CTO",
     },
     publishedAt: new Date("2023-11-01 17:27:27"),
     content: [
